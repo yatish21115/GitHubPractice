@@ -1,1 +1,5 @@
 Hello! My name is Radal.
+for(int i=0;i<n;i++){
+c=a+b;
+}
+System.out.println(c);
